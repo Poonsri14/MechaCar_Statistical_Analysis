@@ -21,7 +21,10 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ## Summary Statistics on Suspension Coils
 
+#### Total Sammary
 ![2](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/TotalSum.png)
+
+#### Lots Summary
 ![3](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/LotSum.png)
 
 
@@ -35,11 +38,21 @@ for all manufacturing lots in total and each lot individually? Why or why not?
 
 ## T-Tests on Suspension Coils
 
+#### T-Test for All Lots
+
 ![4](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testAllLot.png)
+
+#### T-Test for Lot 1
 
 ![5](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testLot1.png)
 
+
+#### T-Test for Lot 2
+
 ![6](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testLot2.png)
+
+
+#### T-Test for Lot 3
 
 ![7](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testLot3.png)
 
