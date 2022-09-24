@@ -1,9 +1,9 @@
 # MechaCar_Statistical_Analysis
 
 
-
-
 ## Linear Regression to Predict MPG
+![1](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/MechaCarSum.png)
+
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vechicel lenghth and groupd clearance will provide a non random amounth of varance because has a small p-value
 Vechicel weight, spoilter angle, and AWD will provide a random amounth of varance because has a large p-value
@@ -15,12 +15,24 @@ No, because of the p-value is smaller than 0.05
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The modle will predict at a 71.49% accuracy
 
+
 ## Summary Statistics on Suspension Coils
+
+![2](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/TotalSum.png)
+![3](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/LotSum.png)
+
+
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 The entire mfg lots meet the design specicafication bacause the variance is 62.29 PSI which is within the 100 PSI requirement.
 lot 1-2 pass, lot 3 doesn't
 
 ## T-Tests on Suspension Coils
+
+![4](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testAllLot.png)
+![5](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testLot1.png)
+![6](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testLot2.png)
+![7](https://github.com/Poonsri14/MechaCar_Statistical_Analysis/blob/main/images/t-testLot3.png)
+
 compare the p-value for each lot
 
 ## Study Design: MechaCar vs Competition
